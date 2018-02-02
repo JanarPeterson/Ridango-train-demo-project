@@ -26,14 +26,22 @@ For getting specific train information trigger a GET request with a trainID on t
 
 **URL:** *localhost:8080/trains/_28e8ea6f-8f68-4566-b21d-dc30693b73ae_*
 
-<img src="https://github.com/JanarPeterson/Ridango-train-demo-project/blob/master/Images/GET%20By%20ID%20example.png" alt="getbyid" witdh="491" height="129" />
+<img src="https://github.com/JanarPeterson/Ridango-train-demo-project/blob/master/Images/GET%20By%20ID%20example.png" alt="getbyid" witdh="514" height="129" />
 
 
 **UPDATE train information**
 
 To update trains use a HTTP PUT 
 
+###### example
+
+<img src="https://github.com/JanarPeterson/Ridango-train-demo-project/blob/master/Images/PUT%20example.png" alt="update" width="514" height="115" />
+
 **INSERT train to DB**
+
+###### example
+
+<img src="https://github.com/JanarPeterson/Ridango-train-demo-project/blob/master/Images/POST%20example.png" alt="insert" width="514" height="120" />
 
 **DELETE train from DB**
 
