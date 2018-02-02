@@ -46,6 +46,10 @@ public class Train {
         return endPoint;
     }
 
+    public String getRoute(){
+        return startPoint + " - " + endPoint;
+    }
+
     public static Train newTrain(UUID trainID, Train train){
         return new Train(trainID, train.getCargo(), train.getStartPoint(), train.getEndPoint());
     }
