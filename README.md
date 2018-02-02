@@ -12,7 +12,7 @@ API runs on a Tomcat server port:8080.
 
 **GET all trains from the database**
 
-To get all trains from DB trigger a GET request on an **URL:** *localhost:8080/trains/* receiving JSON that contains array of train objects.
+To get all trains from database trigger a GET request on an **URL:** *localhost:8080/trains/* receiving JSON that contains array of train objects.
 
 ###### example
 
