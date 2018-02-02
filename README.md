@@ -52,5 +52,7 @@ For inserting new train object into database trigger HTTP POST request on an **U
 
 For deleting specific train from the database use HTTP DELETE request with a trainID on the end of the regular GET request **URL:** *localhost:8080/trains/_trainID_*.
 
+<br/>
+<br/>
 
 **Developed by Janar Peterson**
